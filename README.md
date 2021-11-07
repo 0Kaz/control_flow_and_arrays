@@ -17,7 +17,7 @@ Control flow in computer science is an order of instructions, functions and stat
 
 ```
 
-One important thing to know is that *order primes over anything*, for example, if you call a method right before creating it ? You will get this : 
+One important thing to know is that *order is key* for a structured execution of instructions, for example, if you call a method right before creating it ? You will get something like this : 
 
 ```ruby 
   puts "Enter your fist name"
@@ -41,7 +41,10 @@ The type of control flow below is what we call a sequential control flow, it is 
 
 There is typically 3 well-knowned control flows, one based on choices or conditionals called *'Selection control flow'* and other called *'Iteration control flow'* where we will use various iterators and obviously the *'Sequential control flow'* we've been using during our first programming basics challenges. 
 
-![Flows](https://res.cloudinary.com/kzkjr/image/upload/v1636273339/unnamed.png)
+
+<span style='text-align:center;'>
+  <img src='https://res.cloudinary.com/kzkjr/image/upload/v1636273339/unnamed.png'>
+</span>
 
 
 
@@ -192,7 +195,11 @@ We will talk a little bit more about iterators and blocks in our next session fo
 Arrays are ordered, integer-indexed collections of any object, indexing starts at 0, a negative index ```-1``` starts from the end of an array. 
 
 **Example**
-![ExampleArray](https://res.cloudinary.com/kzkjr/image/upload/v1636273329/te%CC%81le%CC%81chargement.png)
+
+<span style='text-align:center;'>
+  <img src='https://res.cloudinary.com/kzkjr/image/upload/v1636273329/te%CC%81le%CC%81chargement.png'>
+</span>
+
 
 
 ## Access one element of an array 
