@@ -50,7 +50,7 @@ There is typically 3 well-knowned control flows, one based on choices or conditi
 
 ## Difference between == and === in Ruby 
 
-Compared to other programming languages, there isn't much of a difference between ``==`` or ``===` in Ruby. 
+Compared to other programming languages, there isn't much of a difference between ``==`` or ``===`` in Ruby. 
 
 However, there is a distinction between the two comparison operators in Ruby only in few built-in classes, one of them whom you may now already is the Range class we saw today.
 
