@@ -1,6 +1,4 @@
-
 hands_game = %w(rock scissor paper)
-
 puts "Get ready for the Rock paper scissor game"
 
 loop do 
@@ -31,5 +29,4 @@ loop do
     elsif (!player_wins && computer_hand != user_hand)
         puts "you loose...Computer choose #{computer_hand}"
     end
-  
 end
